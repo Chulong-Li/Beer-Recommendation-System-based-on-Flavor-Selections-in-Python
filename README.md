@@ -1,6 +1,6 @@
 # Beer Recommendation System based on Flavor Selections in Python 
 
-Given several flavor selections, this system will provide you best beers matching that you'll definitely enjoy!
+Given several flavor selections, this system will provide you best beers that you'll definitely enjoy!
 
 ### Demo
 

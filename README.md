@@ -4,8 +4,8 @@ Hello, welcome to Beer Adventure! We have pleanty of flavor selections please en
 Please seprate with commas: ```spicy, flowery, pleasant```
 
 Top recommendations by the unknown Mr. Beer:
-  1. __BrewDogClockworkTangerine__ with 5 RD 
-  2. __BrewDogPunkIPA__ with 5 RD
-  3. __GreatLakesCommodorePerry__ with 5 RD
+  1. __BrewDogClockworkTangerine__ with 5 RP 
+  2. __BrewDogPunkIPA__ with 5 RP
+  3. __GreatLakesCommodorePerry__ with 5 RP
 
-Note: RD refers to as recommendation points.
+Note: RP refers to as recommendation points.

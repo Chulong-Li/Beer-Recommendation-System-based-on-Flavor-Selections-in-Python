@@ -1,4 +1,8 @@
-# Beer Recommendation in 2019 HackAI
+# Beer Recommendation System based on Flavor Selections in Python 
+
+Given several flavor selections, this system will provide you best beers matching that you'll definitely enjoy!
+
+### Demo
 
 Hello, welcome to Beer Adventure! We have pleanty of flavor selections please enter your top three below!
 Please seprate with commas: ```spicy, flowery, pleasant```
